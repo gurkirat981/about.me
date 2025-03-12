@@ -1,0 +1,80 @@
+---
+title: ""
+output: 
+  html_document:
+    theme: united
+    toc: true
+    toc_float: true
+    number_sections: false
+---
+# Gurkirat Singh {.tabset}
+
+## Biography  
+
+<p align="center">
+    <img src="gurkirat.jpg" alt="Portrait of Gurkirat Singh" width="250">
+</p>  
+
+<p align="center">
+    <a href="https://x.com/GreenGurkirat" target="_blank">Twitter</a> |
+    <a href="https://github.com/gurkirat981" target="_blank">GitHub</a> |
+    <a href="https://www.linkedin.com/in/gurkiratsingh08/" target="_blank">LinkedIn</a>
+</p>  
+
+<span style="font-size: 16px;">Hello! I am a researcher and public policy practitioner, currently employed at the Centre for Policy Research, New Delhi. My role primarily revolves around understanding performance management in public sector organizations, and addressing challenges surrounding social protection and public service delivery in India. Prior to this, I was a consultant with the Department of Information Technology, Government of Telangana.</span>  
+
+<span style="font-size: 16px;"> A separate segment of my work also focuses on vehicular pollution and issues concerning sustainable mobility, particularly in urban parts of India. Recently, I co-authored a policy note as part of the ORF-GP series and proposed a framework to integrate informal transport modes like auto rickshaws and e-rickshaws under a unified fare pricing system. I am keen on exploring opportunities at the intersection of sustainability, climate policy and environmental governance.</span>  
+
+<span style="font-size: 16px;">My background is in statistics and quantitative methods, with much of my work centered around the extensive use of surveys and administrative datasets. I was trained in Economics at the University of Delhi, and was subsequently awarded the Young India Fellowship by Ashoka University, with full tuition support from the HDFC Bank.</span>  
+
+---
+
+## Publications  
+
+### Reports & Policy Briefs  
+<span style="font-size: 16px;">  
+**Singh, G., Karia, S. (2021).** Training programmes conducted for trainee officers of the Meghalaya Civil Services. *Centre for Policy Research*.</span> 
+
+<span style="font-size: 16px;">
+**Sharma, R., Singh, G., Kochhar, R. (2023).** Study of Village and Ward Secretariats in Andhra Pradesh: Impact & Strengthening. *Centre for Policy Research*.</span>   
+
+<span style="font-size: 16px;">
+**Singh, G.** Study of Village and Ward Secretariats: Recommendations & Key Actions Points. *Centre for Policy Research*.</span>  
+
+<span style="font-size: 16px;">
+**Singh G. (2023).** Locating Upward Mobility in Andhra Pradesh Households: Findings from the Andhra Pradesh Urban Youth Survey. *Centre for Policy Research*.</span> 
+
+<span style="font-size: 16px;">
+**Singh, G. (2023).** Perceptions, Government Support & Access to Cash Transfer Schemes: Findings from the Andhra Pradesh Urban Youth Survey. *Centre for Policy Research*.</span>  
+
+### Working Papers  
+<span style="font-size: 16px;">  
+**Mukhopadhyay P., Singh G. (2024).** Integration of Fares, Information, and Informal Transit. *ORF-Global Policy (GP) Series Journal*, Pg. 122-133.</span>  
+
+---
+
+## Data Visualisations  
+<p align="center"><b>An illustrative respository of my data visualisations from surveys and publicly available administrative datasets.</b></p>
+
+<table align="center" style="border-spacing: 15px; padding: 20px;">
+    <tr>
+        <td><a href="Rplot1.jpeg" target="_blank"><img src="Rplot1.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot8.jpeg" target="_blank"><img src="Rplot8.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot3.jpeg" target="_blank"><img src="Rplot3.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
+    </tr>
+    <tr>
+        <td><a href="Rplot7.jpeg" target="_blank"><img src="Rplot7.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot2.jpeg" target="_blank"><img src="Rplot2.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot9.jpeg" target="_blank"><img src="Rplot9.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
+    </tr>
+    <tr>
+        <td><a href="Rplot10.jpeg" target="_blank"><img src="Rplot10.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot11.jpeg" target="_blank"><img src="Rplot11.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot16.jpeg" target="_blank"><img src="Rplot16.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
+    </tr>
+    <tr>
+        <td><a href="Rplot13.jpeg" target="_blank"><img src="Rplot13.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot14.jpeg" target="_blank"><img src="Rplot14.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot15.jpeg" target="_blank"><img src="Rplot15.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
+    </tr>
+</table>
