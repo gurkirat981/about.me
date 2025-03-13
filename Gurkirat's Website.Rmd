@@ -23,7 +23,7 @@ output:
     <a href="https://www.linkedin.com/in/gurkiratsingh08/" target="_blank">LinkedIn</a>
 </p>  
 
-<p style="font-size: 16px; text-align: justify;">Hello! I am a researcher and public policy practitioner, currently employed at the Centre for Policy Research, New Delhi. My role primarily revolves around understanding performance management in public sector organizations, and addressing challenges surrounding social protection and public service delivery in India. Prior to this, I was a consultant with the Department of Information Technology, Government of Telangana.</p>
+<p style="font-size: 16px; text-align: justify;">Hello! I am a researcher and public policy practitioner, currently employed at the Centre for Policy Research, New Delhi. My role primarily revolves around understanding performance management in public sector organizations, and addressing challenges surrounding social protection and public service delivery in India. Prior to this, I was a consultant at the Department of Information Technology, Government of Telangana.</p>
 
 <p style="font-size: 16px; text-align: justify;">A separate segment of my work also focuses on vehicular pollution and issues concerning sustainable mobility, particularly in urban parts of India. Recently, I co-authored a policy note as part of the ORF-GP series and proposed a framework to integrate informal transport modes like auto rickshaws and e-rickshaws under a unified fare pricing system. I am keen on exploring opportunities at the intersection of sustainability, climate policy and environmental governance.</p>
 
@@ -53,56 +53,106 @@ output:
 **Mukhopadhyay P., Singh G. (2024).** Integration of Fares, Information, and Informal Transit. *ORF-Global Policy (GP) Series Journal*, Pg. 122-133.</span>  
 
 ## Data Visualisations  
+
 <p align="left"><b>An illustrative repository of my data visualisations from surveys and publicly available administrative datasets.</b></p>
 
-<table align="center" style="border-spacing: 15px; padding: 20px;">
+<!-- Add Lightbox2 CSS -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+
+<!-- Add custom CSS for responsive table -->
+<style>
+    .responsive-table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    .responsive-table td {
+        width: 33.33%; /* 3 columns by default */
+        padding: 10px;
+        text-align: center;
+    }
+    @media (max-width: 768px) {
+        .responsive-table td {
+            width: 50%; /* 2 columns on mobile */
+        }
+    }
+</style>
+
+<table class="responsive-table" align="center">
     <tr>
-        <td><a href="Rplot1.jpeg" target="_blank"><img src="Rplot1.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
-        <td><a href="Rplot8.jpeg" target="_blank"><img src="Rplot8.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
-        <td><a href="Rplot3.jpeg" target="_blank"><img src="Rplot3.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot1.jpeg" data-lightbox="data-viz" data-title="Rplot1"><img src="Rplot1.jpeg" width="100%"></a></td>
+        <td><a href="Rplot8.jpeg" data-lightbox="data-viz" data-title="Rplot8"><img src="Rplot8.jpeg" width="100%"></a></td>
+        <td><a href="Rplot3.jpeg" data-lightbox="data-viz" data-title="Rplot3"><img src="Rplot3.jpeg" width="100%"></a></td>
     </tr>
     <tr>
-        <td><a href="Rplot7.jpeg" target="_blank"><img src="Rplot7.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
-        <td><a href="Rplot2.jpeg" target="_blank"><img src="Rplot2.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
-        <td><a href="Rplot9.jpeg" target="_blank"><img src="Rplot9.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot7.jpeg" data-lightbox="data-viz" data-title="Rplot7"><img src="Rplot7.jpeg" width="100%"></a></td>
+        <td><a href="Rplot2.jpeg" data-lightbox="data-viz" data-title="Rplot2"><img src="Rplot2.jpeg" width="100%"></a></td>
+        <td><a href="Rplot9.jpeg" data-lightbox="data-viz" data-title="Rplot9"><img src="Rplot9.jpeg" width="100%"></a></td>
     </tr>
     <tr>
-        <td><a href="Rplot10.jpeg" target="_blank"><img src="Rplot10.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
-        <td><a href="Rplot11.jpeg" target="_blank"><img src="Rplot11.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
-        <td><a href="Rplot16.jpeg" target="_blank"><img src="Rplot16.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot10.jpeg" data-lightbox="data-viz" data-title="Rplot10"><img src="Rplot10.jpeg" width="100%"></a></td>
+        <td><a href="Rplot11.jpeg" data-lightbox="data-viz" data-title="Rplot11"><img src="Rplot11.jpeg" width="100%"></a></td>
+        <td><a href="Rplot16.jpeg" data-lightbox="data-viz" data-title="Rplot16"><img src="Rplot16.jpeg" width="100%"></a></td>
     </tr>
     <tr>
-        <td><a href="Rplot13.jpeg" target="_blank"><img src="Rplot13.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
-        <td><a href="Rplot14.jpeg" target="_blank"><img src="Rplot14.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
-        <td><a href="Rplot15.jpeg" target="_blank"><img src="Rplot15.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot13.jpeg" data-lightbox="data-viz" data-title="Rplot13"><img src="Rplot13.jpeg" width="100%"></a></td>
+        <td><a href="Rplot14.jpeg" data-lightbox="data-viz" data-title="Rplot14"><img src="Rplot14.jpeg" width="100%"></a></td>
+        <td><a href="Rplot15.jpeg" data-lightbox="data-viz" data-title="Rplot15"><img src="Rplot15.jpeg" width="100%"></a></td>
     </tr>
 </table>
 
-## Field Work 
-<p align="left"><b> An archive of pictures from my fieldwork in Machilipatnam, Vijayawada and Araku Valley (Andhra Pradesh, India).</b></p>
+<!-- Add Lightbox2 JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
-<table align="center" style="border-spacing: 15px; padding: 20px;">
+## Field Work  
+
+<p align="left"><b>Some archives from my fieldwork in Machilipatnam, Vijayawada, and Araku Valley (Andhra Pradesh, India).</b></p>
+
+<!-- Add Lightbox2 CSS -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+
+<!-- Add custom CSS for responsive table -->
+<style>
+    .responsive-table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    .responsive-table td {
+        width: 33.33%; /* 3 columns by default */
+        padding: 10px;
+        text-align: center;
+    }
+    @media (max-width: 768px) {
+        .responsive-table td {
+            width: 50%; /* 2 columns on mobile */
+        }
+    }
+</style>
+
+<table class="responsive-table" align="center">
     <tr>
-        <td><a href="IMG3.jpg" target="_blank"><img src="IMG3.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
-        <td><a href="IMG4.jpg" target="_blank"><img src="IMG4.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
-        <td><a href="IMG5.jpg" target="_blank"><img src="IMG5.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="IMG3.jpg" data-lightbox="fieldwork" data-title="IMG3"><img src="IMG3.jpg" width="100%"></a></td>
+        <td><a href="IMG4.jpg" data-lightbox="fieldwork" data-title="IMG4"><img src="IMG4.jpg" width="100%"></a></td>
+        <td><a href="IMG5.jpg" data-lightbox="fieldwork" data-title="IMG5"><img src="IMG5.jpg" width="100%"></a></td>
     </tr>
     <tr>
-        <td><a href="IMG8.jpg" target="_blank"><img src="IMG8.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
-        <td><a href="IMG9.jpg" target="_blank"><img src="IMG9.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
-        <td><a href="IMG6.jpg" target="_blank"><img src="IMG6.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="IMG8.jpg" data-lightbox="fieldwork" data-title="IMG8"><img src="IMG8.jpg" width="100%"></a></td>
+        <td><a href="IMG9.jpg" data-lightbox="fieldwork" data-title="IMG9"><img src="IMG9.jpg" width="100%"></a></td>
+        <td><a href="IMG6.jpg" data-lightbox="fieldwork" data-title="IMG6"><img src="IMG6.jpg" width="100%"></a></td>
     </tr>
     <tr>
-        <td><a href="IMG10.jpg" target="_blank"><img src="IMG10.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
-        <td><a href="IMG11.jpg" target="_blank"><img src="IMG11.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
-        <td><a href="IMG12.jpg" target="_blank"><img src="IMG12.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="IMG10.jpg" data-lightbox="fieldwork" data-title="IMG10"><img src="IMG10.jpg" width="100%"></a></td>
+        <td><a href="IMG11.jpg" data-lightbox="fieldwork" data-title="IMG11"><img src="IMG11.jpg" width="100%"></a></td>
+        <td><a href="IMG12.jpg" data-lightbox="fieldwork" data-title="IMG12"><img src="IMG12.jpg" width="100%"></a></td>
     </tr>
     <tr>
-        <td><a href="IMG13.jpg" target="_blank"><img src="IMG13.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
-        <td><a href="IMG14.jpg" target="_blank"><img src="IMG14.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
-        <td><a href="IMG15.jpg" target="_blank"><img src="IMG15.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="IMG13.jpg" data-lightbox="fieldwork" data-title="IMG13"><img src="IMG13.jpg" width="100%"></a></td>
+        <td><a href="IMG14.jpg" data-lightbox="fieldwork" data-title="IMG14"><img src="IMG14.jpg" width="100%"></a></td>
+        <td><a href="IMG15.jpg" data-lightbox="fieldwork" data-title="IMG15"><img src="IMG15.jpg" width="100%"></a></td>
     </tr>
 </table>
+
+<!-- Add Lightbox2 JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
 ## Resume and Contact
 
