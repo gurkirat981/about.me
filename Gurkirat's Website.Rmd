@@ -2,14 +2,16 @@
 title: ""
 output: 
   html_document:
-    theme: united
-    toc: true
-    toc_float: true
+    theme: readable
+    toc: false
+    toc_float: false
     number_sections: false
+    sidebar: false
 ---
+
 # Gurkirat Singh {.tabset}
 
-## Biography  
+## About Me  
 
 <p align="center">
     <img src="gurkirat.jpg" alt="Portrait of Gurkirat Singh" width="250">
@@ -21,13 +23,12 @@ output:
     <a href="https://www.linkedin.com/in/gurkiratsingh08/" target="_blank">LinkedIn</a>
 </p>  
 
-<span style="font-size: 16px;">Hello! I am a researcher and public policy practitioner, currently employed at the Centre for Policy Research, New Delhi. My role primarily revolves around understanding performance management in public sector organizations, and addressing challenges surrounding social protection and public service delivery in India. Prior to this, I was a consultant with the Department of Information Technology, Government of Telangana.</span>  
+<p style="font-size: 16px; text-align: justify;">Hello! I am a researcher and public policy practitioner, currently employed at the Centre for Policy Research, New Delhi. My role primarily revolves around understanding performance management in public sector organizations, and addressing challenges surrounding social protection and public service delivery in India. Prior to this, I was a consultant with the Department of Information Technology, Government of Telangana.</p>
 
-<span style="font-size: 16px;"> A separate segment of my work also focuses on vehicular pollution and issues concerning sustainable mobility, particularly in urban parts of India. Recently, I co-authored a policy note as part of the ORF-GP series and proposed a framework to integrate informal transport modes like auto rickshaws and e-rickshaws under a unified fare pricing system. I am keen on exploring opportunities at the intersection of sustainability, climate policy and environmental governance.</span>  
+<p style="font-size: 16px; text-align: justify;">A separate segment of my work also focuses on vehicular pollution and issues concerning sustainable mobility, particularly in urban parts of India. Recently, I co-authored a policy note as part of the ORF-GP series and proposed a framework to integrate informal transport modes like auto rickshaws and e-rickshaws under a unified fare pricing system. I am keen on exploring opportunities at the intersection of sustainability, climate policy and environmental governance.</p>
 
-<span style="font-size: 16px;">My background is in statistics and quantitative methods, with much of my work centered around the extensive use of surveys and administrative datasets. I was trained in Economics at the University of Delhi, and was subsequently awarded the Young India Fellowship by Ashoka University, with full tuition support from the HDFC Bank.</span>  
+<p style="font-size: 16px; text-align: justify;">My background is in statistics and quantitative methods, with much of my work centered around the extensive use of surveys and administrative datasets. I majored in Economics at the University of Delhi, and was subsequently awarded the Young India Fellowship by Ashoka University, with full tuition support from the HDFC Bank.</p>
 
----
 
 ## Publications  
 
@@ -51,30 +52,64 @@ output:
 <span style="font-size: 16px;">  
 **Mukhopadhyay P., Singh G. (2024).** Integration of Fares, Information, and Informal Transit. *ORF-Global Policy (GP) Series Journal*, Pg. 122-133.</span>  
 
----
-
 ## Data Visualisations  
-<p align="center"><b>An illustrative respository of my data visualisations from surveys and publicly available administrative datasets.</b></p>
+<p align="left"><b>An illustrative repository of my data visualisations from surveys and publicly available administrative datasets.</b></p>
 
 <table align="center" style="border-spacing: 15px; padding: 20px;">
     <tr>
-        <td><a href="Rplot1.jpeg" target="_blank"><img src="Rplot1.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
-        <td><a href="Rplot8.jpeg" target="_blank"><img src="Rplot8.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
-        <td><a href="Rplot3.jpeg" target="_blank"><img src="Rplot3.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot1.jpeg" target="_blank"><img src="Rplot1.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot8.jpeg" target="_blank"><img src="Rplot8.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot3.jpeg" target="_blank"><img src="Rplot3.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
     </tr>
     <tr>
-        <td><a href="Rplot7.jpeg" target="_blank"><img src="Rplot7.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
-        <td><a href="Rplot2.jpeg" target="_blank"><img src="Rplot2.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
-        <td><a href="Rplot9.jpeg" target="_blank"><img src="Rplot9.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot7.jpeg" target="_blank"><img src="Rplot7.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot2.jpeg" target="_blank"><img src="Rplot2.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot9.jpeg" target="_blank"><img src="Rplot9.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
     </tr>
     <tr>
-        <td><a href="Rplot10.jpeg" target="_blank"><img src="Rplot10.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
-        <td><a href="Rplot11.jpeg" target="_blank"><img src="Rplot11.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
-        <td><a href="Rplot16.jpeg" target="_blank"><img src="Rplot16.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot10.jpeg" target="_blank"><img src="Rplot10.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot11.jpeg" target="_blank"><img src="Rplot11.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot16.jpeg" target="_blank"><img src="Rplot16.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
     </tr>
     <tr>
-        <td><a href="Rplot13.jpeg" target="_blank"><img src="Rplot13.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
-        <td><a href="Rplot14.jpeg" target="_blank"><img src="Rplot14.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
-        <td><a href="Rplot15.jpeg" target="_blank"><img src="Rplot15.jpeg" width="300" style="border: 1px solid #ccc; padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot13.jpeg" target="_blank"><img src="Rplot13.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot14.jpeg" target="_blank"><img src="Rplot14.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="Rplot15.jpeg" target="_blank"><img src="Rplot15.jpeg" width="300" style="padding: 5px; margin: 10px;"></a></td>
     </tr>
 </table>
+
+## Field Work 
+<p align="left"><b> An archive of pictures from my fieldwork in Machilipatnam, Vijayawada and Araku Valley (Andhra Pradesh, India).</b></p>
+
+<table align="center" style="border-spacing: 15px; padding: 20px;">
+    <tr>
+        <td><a href="IMG3.jpg" target="_blank"><img src="IMG3.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="IMG4.jpg" target="_blank"><img src="IMG4.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="IMG5.jpg" target="_blank"><img src="IMG5.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+    </tr>
+    <tr>
+        <td><a href="IMG8.jpg" target="_blank"><img src="IMG8.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="IMG9.jpg" target="_blank"><img src="IMG9.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="IMG6.jpg" target="_blank"><img src="IMG6.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+    </tr>
+    <tr>
+        <td><a href="IMG10.jpg" target="_blank"><img src="IMG10.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="IMG11.jpg" target="_blank"><img src="IMG11.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="IMG12.jpg" target="_blank"><img src="IMG12.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+    </tr>
+    <tr>
+        <td><a href="IMG13.jpg" target="_blank"><img src="IMG13.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="IMG14.jpg" target="_blank"><img src="IMG14.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+        <td><a href="IMG15.jpg" target="_blank"><img src="IMG15.jpg" width="300" style="padding: 5px; margin: 10px;"></a></td>
+    </tr>
+</table>
+
+## Resume and Contact
+
+<span style="font-size: 16px;">
+You can view my resume <a href="resume.pdf" target="_blank">here.</a> 
+</span>
+
+<span style="font-size: 16px;">
+I can be reached out at gurkirat@cprindia.org or gurkiratsingh.sggscc@gmail.com. Thank you for visiting my website!
+</span>
