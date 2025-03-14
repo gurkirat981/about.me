@@ -25,7 +25,7 @@ output:
 
 <p style="font-size: 16px; text-align: justify;">Hello! I am a researcher and public policy practitioner, currently employed at the Centre for Policy Research, New Delhi. My role primarily revolves around understanding performance management in public sector organizations, and addressing challenges surrounding social protection and public service delivery in India. Prior to this, I was a consultant at the Department of Information Technology, Government of Telangana.</p>
 
-<p style="font-size: 16px; text-align: justify;">A separate segment of my work also focuses on vehicular pollution and issues concerning sustainable mobility, particularly in urban parts of India. Recently, I co-authored a policy note as part of the ORF-GP series and proposed a framework to integrate informal transport modes like auto rickshaws and e-rickshaws under a unified fare pricing system. I am keen on exploring opportunities at the intersection of sustainability, climate policy and environmental governance.</p>
+<p style="font-size: 16px; text-align: justify;">A separate segment of my work also focuses on vehicular pollution and issues concerning sustainable mobility, particularly in urban parts of India. Recently, I co-authored a policy note as part of the ORF-GP series and proposed a framework to integrate informal transport modes like auto rickshaws and e-rickshaws under a unified fare pricing system. I am keen on exploring opportunities at the intersection of sustainability, urban policy and environmental governance.</p>
 
 <p style="font-size: 16px; text-align: justify;">My background is in statistics and quantitative methods, with much of my work centered around the extensive use of surveys and administrative datasets. I majored in Economics at the University of Delhi, and was subsequently awarded the Young India Fellowship by Ashoka University, with full tuition support from the HDFC Bank.</p>
 
@@ -152,6 +152,91 @@ output:
 </table>
 
 <!-- Add Lightbox2 JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
+## Blog  
+
+<!-- Add Lightbox2 CSS (if needed for thumbnails) -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+
+<!-- Add custom CSS for the grid layout -->
+<style>
+    .articles-table {
+        width: 100%;
+        border-collapse: separate; /* Use separate to allow spacing between cells */
+        border-spacing: 20px; /* Add spacing between cells */
+    }
+    .articles-table td {
+        width: 33.33%; /* 3 columns by default */
+        padding: 15px;
+        text-align: center;
+        vertical-align: top;
+        border: 1px solid #ddd; /* Retain the grid border */
+        border-radius: 8px;
+    }
+    .articles-table img {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+    }
+    .articles-table h3 {
+        font-size: 18px;
+        margin: 10px 0;
+    }
+    .articles-table p {
+        font-size: 14px;
+        color: #555;
+        margin: 10px 0;
+    }
+    .articles-table a {
+        display: inline-block;
+        margin: 10px 0;
+        font-size: 14px; /* Smaller font size */
+        color: #007bff; /* Blue text color */
+        text-decoration: underline; /* Underline the link */
+        background: none; /* Remove background */
+        padding: 0; /* Remove padding */
+        border-radius: 0; /* Remove border radius */
+    }
+    @media (max-width: 768px) {
+        .articles-table td {
+            width: 50%; /* 2 columns on mobile */
+        }
+    }
+    @media (max-width: 480px) {
+        .articles-table td {
+            width: 100%; /* 1 column on very small screens */
+        }
+    }
+</style>
+
+<table class="articles-table">
+    <tr>
+        <!-- Article 1 -->
+        <td>
+            <img src="blog1.jpg" alt="blog1">
+            <h3>Popular Transportation and Fare Integration</h3>
+            <p>A review of the state of informal transportation and fare integration frameworks across selected cities</p>
+            <a href="https://medium.com/@itsgurkirat/popular-transportation-and-fare-integration-a-review-of-global-practices-71ac64fdae24" target="_blank">Read More</a>
+        </td>
+        <!-- Article 2 -->
+        <td>
+            <img src="blog2.jpg" alt="blog2">
+            <h3>On Survey Logistics & Enumeration</h3>
+            <p>Insights from the CPR-AP Urban Youth Survey</p>
+            <a href="https://medium.com/@itsgurkirat/surveys-enumeration-insights-from-the-cpr-ap-urban-youth-survey-6db6e9452422" target="_blank">Read More</a>
+        </td>
+        <!-- Article 3 -->
+        <td>
+            <img src="IMG23.jpg" alt="IMG23">
+            <h3>Centrally-Sponsored Schemes and Credit Attribution</h3>
+            <p>Findings from the DALES-IES Survey</p>
+            <a href="https://medium.com/@itsgurkirat/attribution-for-centrally-sponsored-benefits-fd3cb2e0d272" target="_blank">Read More</a>
+        </td>
+    </tr>
+</table>
+
+<!-- Add Lightbox2 JavaScript (if needed) -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
 ## Resume and Contact
