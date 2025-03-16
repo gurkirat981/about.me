@@ -34,7 +34,7 @@ output:
     </a>
 </p>
 
-<p style="font-size: 16px; text-align: justify;">Hello! I am a researcher and public policy practitioner, currently employed at the Centre for Policy Research, New Delhi. My role primarily revolves around understanding performance management in public sector organizations, and addressing challenges surrounding social protection and public service delivery in India. Prior to this, I was a consultant at the Department of Information Technology, Government of Telangana.</p>
+<p style="font-size: 16px; text-align: justify;">Hello! I am a researcher and public policy practitioner, currently employed at the Centre for Policy Research, New Delhi. My role primarily revolves around understanding performance management in public sector organizations, and addressing challenges surrounding public service delivery in India. I engage closely with state departments and local governments in India to evaluate sub-national welfare programs, including in-kind and direct benefit transfers. Prior to this, I was a consultant at the Department of Information Technology, Government of Telangana.</p>
 
 <p style="font-size: 16px; text-align: justify;">A separate segment of my work also focuses on vehicular pollution and issues concerning sustainable mobility, particularly in urban parts of India. Recently, I co-authored a policy note as part of the ORF-GP series and proposed a framework to integrate informal transport modes like auto rickshaws and e-rickshaws under a unified fare pricing system. I am keen on exploring opportunities at the intersection of sustainability, urban policy and environmental governance.</p>
 
@@ -45,23 +45,23 @@ output:
 
 ### Reports & Policy Briefs  
 <span style="font-size: 16px;">  
-**Singh, G., Karia, S. (2021).** Training programmes conducted for trainee officers of the Meghalaya Civil Services. *Centre for Policy Research*.</span> 
+**Singh, G., Karia, S. (2021).** [**Training Programmes Conducted for Trainee Officers of the Meghalaya Civil Services**](https://drive.google.com/file/d/1pHC1o4gK1Km1qq3BaUf--TcNCaKTceRo/view). *Centre for Policy Research*.</span>   
 
 <span style="font-size: 16px;">
 **Sharma, R., Singh, G., Kochhar, R. (2023).** Study of Village and Ward Secretariats in Andhra Pradesh: Impact & Strengthening. *Centre for Policy Research*.</span>   
 
 <span style="font-size: 16px;">
-**Singh, G.** Study of Village and Ward Secretariats: Recommendations & Key Actions Points. *Centre for Policy Research*.</span>  
+**Singh, G.** [**Study of Village and Ward Secretariats: Recommendations & Key Action Points**](https://drive.google.com/file/d/1UiDTa_Q4I7pPQDrO2yF8qwQILtH5-b52/view). *Centre for Policy Research*.</span>  
 
 <span style="font-size: 16px;">
 **Singh, G. (2023).** Locating Upward Mobility in Andhra Pradesh Households: Findings from the Andhra Pradesh Urban Youth Survey. *Centre for Policy Research*.</span> 
 
 <span style="font-size: 16px;">
-**Singh, G. (2023).** Perceptions, Government Support & Access to Cash Transfer Schemes: Findings from the Andhra Pradesh Urban Youth Survey. *Centre for Policy Research*.</span>  
+**Singh, G. (2023).** [**Perceptions, Government Support & Access to Cash Transfer Schemes: Findings from the Andhra Pradesh Urban Youth Survey**](https://drive.google.com/file/d/1EDo3npU-FoIeU6ihxE0EIfyKJPuc1FQe/view). *Centre for Policy Research*.</span>  
 
 ### Working Papers  
 <span style="font-size: 16px;">  
-**Mukhopadhyay P., Singh G. (2024).** Integration of Fares, Information, and Informal Transit. *ORF-Global Policy (GP) Series Journal*, Pg. 122-133.</span>  
+**Mukhopadhyay P., Singh G. (2024).** [**Integration of Fares, Information, and Informal Transit**](https://www.orfonline.org/public/uploads/posts/pdf/20241228102901.pdf). *ORF-Global Policy (GP) Series Journal*, Pg. 122-133.</span>  
 
 ## Data Visualisations  
 
@@ -90,24 +90,24 @@ output:
 
 <table class="responsive-table" align="center">
     <tr>
-        <td><a href="Rplot1.jpeg" data-lightbox="data-viz" data-title="Rplot1"><img src="Rplot1.jpeg" width="100%"></a></td>
-        <td><a href="Rplot8.jpeg" data-lightbox="data-viz" data-title="Rplot8"><img src="Rplot8.jpeg" width="100%"></a></td>
-        <td><a href="Rplot3.jpeg" data-lightbox="data-viz" data-title="Rplot3"><img src="Rplot3.jpeg" width="100%"></a></td>
+        <td><a href="Rplot1.jpeg" data-lightbox="data-viz" data-title="Credit Attribution for Welfare Schemes (DALES-IES Survey)"><img src="Rplot1.jpeg" width="100%"></a></td>
+        <td><a href="Rplot8.jpeg" data-lightbox="data-viz" data-title="Household Consumption Expenditure on Bus (NSS-HCES 2022-2023)"><img src="Rplot8.jpeg" width="100%"></a></td>
+        <td><a href="Rplot3.jpeg" data-lightbox="data-viz" data-title="Statewise breakup of Transit Expenditure (NSS-HCES 2022-2023)"><img src="Rplot3.jpeg" width="100%"></a></td>
     </tr>
     <tr>
-        <td><a href="Rplot7.jpeg" data-lightbox="data-viz" data-title="Rplot7"><img src="Rplot7.jpeg" width="100%"></a></td>
-        <td><a href="Rplot2.jpeg" data-lightbox="data-viz" data-title="Rplot2"><img src="Rplot2.jpeg" width="100%"></a></td>
-        <td><a href="Rplot9.jpeg" data-lightbox="data-viz" data-title="Rplot9"><img src="Rplot9.jpeg" width="100%"></a></td>
+        <td><a href="Rplot7.jpeg" data-lightbox="data-viz" data-title="Sector, Size and Nature of landholdings (NSS-HCES 2022-2023)"><img src="Rplot7.jpeg" width="100%"></a></td>
+        <td><a href="Rplot2.jpeg" data-lightbox="data-viz" data-title="Multi-Modality Index by State and Sector (NSS-HCES 2022-2023)"><img src="Rplot2.jpeg" width="100%"></a></td>
+        <td><a href="Rplot9.jpeg" data-lightbox="data-viz" data-title="Nature of Economic Activity and Size of Landholdings (NSS-HCES 2022-2023)"><img src="Rplot9.jpeg" width="100%"></a></td>
     </tr>
     <tr>
-        <td><a href="Rplot10.jpeg" data-lightbox="data-viz" data-title="Rplot10"><img src="Rplot10.jpeg" width="100%"></a></td>
-        <td><a href="Rplot11.jpeg" data-lightbox="data-viz" data-title="Rplot11"><img src="Rplot11.jpeg" width="100%"></a></td>
-        <td><a href="Rplot16.jpeg" data-lightbox="data-viz" data-title="Rplot16"><img src="Rplot16.jpeg" width="100%"></a></td>
+        <td><a href="Rplot10.jpeg" data-lightbox="data-viz" data-title="Primary Activity and Voting Behaviour (DALES-IES Survey)"><img src="Rplot10.jpeg" width="100%"></a></td>
+        <td><a href="Rplot11.jpeg" data-lightbox="data-viz" data-title="Size of Landholdings and Share of Households engaged in Agriculture (NSS-HCES 2022-2023)"><img src="Rplot11.jpeg" width="100%"></a></td>
+        <td><a href="Rplot16.jpeg" data-lightbox="data-viz" data-title="Breakdown of Asset Ownership among Survey Respondents (DALES-IES Survey)"><img src="Rplot16.jpeg" width="100%"></a></td>
     </tr>
     <tr>
-        <td><a href="Rplot13.jpeg" data-lightbox="data-viz" data-title="Rplot13"><img src="Rplot13.jpeg" width="100%"></a></td>
-        <td><a href="Rplot14.jpeg" data-lightbox="data-viz" data-title="Rplot14"><img src="Rplot14.jpeg" width="100%"></a></td>
-        <td><a href="Rplot15.jpeg" data-lightbox="data-viz" data-title="Rplot15"><img src="Rplot15.jpeg" width="100%"></a></td>
+        <td><a href="Rplot13.jpg" data-lightbox="data-viz" data-title="Statewise Penetration of Railways across Rural and Urban Households in India (NSS-HCES 2022-2023)"><img src="Rplot13.jpg" width="100%"></a></td>
+        <td><a href="Rplot14.jpeg" data-lightbox="data-viz" data-title="AmmaVodi Coverage and Scheme Penetration Index (CPR-AP Survey)"><img src="Rplot14.jpeg" width="100%"></a></td>
+        <td><a href="Rplot15.jpeg" data-lightbox="data-viz" data-title="Household Coverage and Transit Expenditure across Urban Settlement Groups (NSS-HCES 2022-2023)"><img src="Rplot15.jpeg" width="100%"></a></td>
     </tr>
 </table>
 
@@ -165,7 +165,7 @@ output:
 <!-- Add Lightbox2 JavaScript -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
-## Blog  
+## Blog/Policy Work  
 
 <!-- Add Lightbox2 CSS (if needed for thumbnails) -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
@@ -219,20 +219,23 @@ output:
         color: #007bff; /* Blue text color */
         text-decoration: underline; /* Underline the link */
         background: none; /* Remove background */
-        padding: 0; /* Remove padding */
-        border-radius: 0; /* Remove border radius */
+        padding: 5px; /* Slight padding for better click area */
+        border-radius: 4px; /* Small border radius for better tapability */
+        position: relative; /* Ensures it's above other elements */
+        z-index: 2; /* Ensures it's clickable */
     }
     .author-date-table {
         width: 100%;
         font-size: 12px; /* Minimal font size */
         color: #777; /* Subtle text color */
         margin-top: 15px;
-        position: absolute; /* Position at the bottom */
-        bottom: 5px; /* Distance from the bottom */
-        left: 0; /* Align to the left edge */
-        right: 0; /* Align to the right edge */
+        position: relative; /* Changed from absolute */
+        bottom: auto; /* Removed absolute positioning */
+        left: auto;
+        right: auto;
         padding: 0 15px; /* Add padding to match the article box */
         border: none; /* Remove border */
+        z-index: 1; /* Ensures it does not cover links */
     }
     .author-date-table td {
         text-align: left; /* Author initials on the left */
@@ -295,6 +298,7 @@ output:
 
 <!-- Add Lightbox2 JavaScript (if needed) -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
 
 ## Resume and Contact
 
