@@ -9,6 +9,9 @@ output:
     sidebar: false
 ---
 
+<!-- Add viewport meta tag for mobile responsiveness -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 # Gurkirat Singh {.tabset}
 
 ## About Me  
@@ -18,10 +21,18 @@ output:
 </p>  
 
 <p align="center">
-    <a href="https://x.com/GreenGurkirat" target="_blank">Twitter</a> |
-    <a href="https://github.com/gurkirat981" target="_blank">GitHub</a> |
-    <a href="https://www.linkedin.com/in/gurkiratsingh08/" target="_blank">LinkedIn</a>
-</p>  
+    <a href="https://x.com/GreenGurkirat" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="20" height="20" alt="Twitter">
+    </a>
+    &nbsp; | &nbsp;
+    <a href="https://github.com/gurkirat981" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="20" height="20" alt="GitHub">
+    </a>
+    &nbsp; | &nbsp;
+    <a href="https://www.linkedin.com/in/gurkiratsingh08/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20" height="20" alt="LinkedIn">
+    </a>
+</p>
 
 <p style="font-size: 16px; text-align: justify;">Hello! I am a researcher and public policy practitioner, currently employed at the Centre for Policy Research, New Delhi. My role primarily revolves around understanding performance management in public sector organizations, and addressing challenges surrounding social protection and public service delivery in India. Prior to this, I was a consultant at the Department of Information Technology, Government of Telangana.</p>
 
@@ -173,6 +184,19 @@ output:
         vertical-align: top;
         border: 1px solid #ddd; /* Retain the grid border */
         border-radius: 8px;
+        position: relative; /* For positioning author and date */
+    }
+    @media (max-width: 768px) {
+        .articles-table td {
+            width: 100%; /* 1 column on mobile */
+            display: block; /* Ensure full width */
+            margin-bottom: 20px; /* Add spacing between articles */
+            position: relative; /* For positioning author and date */
+        }
+        .author-date-table {
+            position: relative; /* Reset to normal flow on mobile */
+            padding: 0; /* Remove padding */
+        }
     }
     .articles-table img {
         width: 100%;
@@ -198,15 +222,30 @@ output:
         padding: 0; /* Remove padding */
         border-radius: 0; /* Remove border radius */
     }
-    @media (max-width: 768px) {
-        .articles-table td {
-            width: 50%; /* 2 columns on mobile */
-        }
+    .author-date-table {
+        width: 100%;
+        font-size: 12px; /* Minimal font size */
+        color: #777; /* Subtle text color */
+        margin-top: 15px;
+        position: absolute; /* Position at the bottom */
+        bottom: 5px; /* Distance from the bottom */
+        left: 0; /* Align to the left edge */
+        right: 0; /* Align to the right edge */
+        padding: 0 15px; /* Add padding to match the article box */
+        border: none; /* Remove border */
     }
-    @media (max-width: 480px) {
-        .articles-table td {
-            width: 100%; /* 1 column on very small screens */
-        }
+    .author-date-table td {
+        text-align: left; /* Author initials on the left */
+        padding: 0;
+        border: none; /* Remove border */
+    }
+    .author-date-table td:first-child {
+        padding-left: 5px; /* Move author name slightly to the right */
+    }
+    .author-date-table td:last-child {
+        text-align: right; /* Date on the right */
+        padding-right: 5px; /* Move date slightly to the left */
+        border: none; /* Remove border */
     }
 </style>
 
@@ -218,6 +257,12 @@ output:
             <h3>Popular Transportation and Fare Integration</h3>
             <p>A review of the state of informal transportation and fare integration frameworks across selected cities</p>
             <a href="https://medium.com/@itsgurkirat/popular-transportation-and-fare-integration-a-review-of-global-practices-71ac64fdae24" target="_blank">Read More</a>
+            <table class="author-date-table">
+                <tr>
+                    <td></td>
+                    <td>03/2025</td>
+                </tr>
+            </table>
         </td>
         <!-- Article 2 -->
         <td>
@@ -225,13 +270,25 @@ output:
             <h3>On Survey Logistics & Enumeration</h3>
             <p>Insights from the CPR-AP Urban Youth Survey</p>
             <a href="https://medium.com/@itsgurkirat/surveys-enumeration-insights-from-the-cpr-ap-urban-youth-survey-6db6e9452422" target="_blank">Read More</a>
+            <table class="author-date-table">
+                <tr>
+                    <td></td>
+                    <td>03/2025</td>
+                </tr>
+            </table>
         </td>
         <!-- Article 3 -->
         <td>
             <img src="IMG23.jpg" alt="IMG23">
-            <h3>Centrally-Sponsored Schemes and Credit Attribution</h3>
+            <h3>Prevailing Citizen Perceptions on Centrally-Sponsored Schemes</h3>
             <p>Findings from the DALES-IES Survey</p>
             <a href="https://medium.com/@itsgurkirat/attribution-for-centrally-sponsored-benefits-fd3cb2e0d272" target="_blank">Read More</a>
+            <table class="author-date-table">
+                <tr>
+                    <td></td>
+                    <td>03/2025</td>
+                </tr>
+            </table>
         </td>
     </tr>
 </table>
