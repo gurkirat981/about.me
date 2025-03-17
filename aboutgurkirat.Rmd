@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Gurkirat Singh"
 output: 
   html_document:
     theme: readable
@@ -12,7 +12,7 @@ output:
 <!-- Add viewport meta tag for mobile responsiveness -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-# Gurkirat Singh {.tabset}
+# {.tabset}
 
 ## About Me  
 
@@ -34,7 +34,7 @@ output:
     </a>
 </p>
 
-<p style="font-size: 16px; text-align: justify;">Hello! I am a researcher and public policy practitioner, currently employed at the Centre for Policy Research, New Delhi. My role primarily revolves around understanding performance management in public sector organizations, and addressing challenges surrounding public service delivery in India. I engage closely with state departments and local governments in India to evaluate sub-national welfare programs, including in-kind and direct benefit transfers. Prior to this, I was a consultant at the Department of Information Technology, Government of Telangana.</p>
+<p style="font-size: 16px; text-align: justify;">Hello! I am a researcher and public policy practitioner, currently employed at the [Centre for Policy Research, New Delhi](https://cprindia.org/). My role primarily revolves around understanding performance management in public sector organizations, and addressing challenges surrounding public service delivery in India. I engage closely with state departments and local governments in India to evaluate sub-national welfare programs, including in-kind and direct benefit transfers. Prior to this, I was a consultant at the Department of Information Technology, Government of Telangana.</p>
 
 <p style="font-size: 16px; text-align: justify;">A separate segment of my work also focuses on vehicular pollution and issues concerning sustainable mobility, particularly in urban parts of India. Recently, I co-authored a policy note as part of the ORF-GP series and proposed a framework to integrate informal transport modes like auto rickshaws and e-rickshaws under a unified fare pricing system. I am keen on exploring opportunities at the intersection of sustainability, urban policy and environmental governance.</p>
 
